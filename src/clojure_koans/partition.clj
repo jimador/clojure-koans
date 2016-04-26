@@ -1,0 +1,2 @@
+(ns clojure-koans.partition)
+
