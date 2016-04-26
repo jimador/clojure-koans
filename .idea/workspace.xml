@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="def58e83-4f32-486c-8785-07e6d4b6fa9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clojure_koans/group_by.clj" afterPath="$PROJECT_DIR$/src/clojure_koans/group_by.clj" />
-    </list>
+    <list default="true" id="def58e83-4f32-486c-8785-07e6d4b6fa9d" name="Default" comment="" />
     <ignored path="clojure-koans.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -99,8 +95,8 @@
       <file leaf-file-name="group_by.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clojure_koans/group_by.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6476541">
-              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.26310948">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -706,7 +702,7 @@
       <option name="number" value="Default" />
       <updated>1461605304539</updated>
       <workItem from="1461605309119" duration="2620000" />
-      <workItem from="1461675853963" duration="19573000" />
+      <workItem from="1461675853963" duration="19615000" />
     </task>
     <task id="LOCAL-00001" summary="creating functions clj">
       <created>1461684200150</created>
@@ -730,7 +726,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22193000" />
+    <option name="totallyTimeSpent" value="22235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2118" height="1281" extended-state="6" />
@@ -1033,8 +1029,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clojure_koans/group_by.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6476541">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.26310948">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
