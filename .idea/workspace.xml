@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def58e83-4f32-486c-8785-07e6d4b6fa9d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/clojure_koans/recursion.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clojure_koans/recursion.clj" afterPath="$PROJECT_DIR$/src/clojure_koans/recursion.clj" />
     </list>
     <ignored path="clojure-koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="recursion.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clojure_koans/recursion.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.24512535">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -69,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/clojure_koans/sequence_comprehensions.clj" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/clojure_koans/creating_functions.clj" />
+        <option value="$PROJECT_DIR$/src/clojure_koans/recursion.clj" />
       </list>
     </option>
   </component>
@@ -607,7 +608,7 @@
       <option name="number" value="Default" />
       <updated>1461605304539</updated>
       <workItem from="1461605309119" duration="2620000" />
-      <workItem from="1461675853963" duration="9329000" />
+      <workItem from="1461675853963" duration="12025000" />
     </task>
     <task id="LOCAL-00001" summary="creating functions clj">
       <created>1461684200150</created>
@@ -631,7 +632,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11949000" />
+    <option name="totallyTimeSpent" value="14645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2118" height="1281" extended-state="6" />
@@ -860,10 +861,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2799443">
+          <caret line="4428" column="24" selection-start-line="4428" selection-start-column="24" selection-end-line="4428" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/clojure_koans/recursion.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.24512535">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
