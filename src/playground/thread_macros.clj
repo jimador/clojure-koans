@@ -12,24 +12,26 @@
       set))
 (def text (slurp "http://www.clearwhitelight.org/hitch/hhgttg.txt"))
 
-;; ->> Thread last
-;;(first
-;;  (reverse
-;;    (sort-by
-;;      val
-;;      (frequencies
-;;        (remove common-words
-;;                (map (fn* [p1__1956#]
-;;                       (clojure.string/lower-case p1__1956#))
-;;                     (re-seq #"[\w|']+" text)))))))
+; ->> Thread last
+;(first
+;  (reverse
+;    (sort-by
+;      val
+;      (frequencies
+;        (remove common-words
+;                (map (fn* [p1__1956#]
+;                       (clojure.string/lower-case p1__1956#))
+;                     (re-seq #"[\w|']+" text)))))))
 
 (->> text
             (re-seq #"[\w|']+")
-            #_(map #(clojure.string/lower-case %))
-            #_(remove common-words)
+            (map #(clojure.string/lower-case %))
+            (remove common-words)
             frequencies
-            #_(sort-by val)
-            #_reverse
+            (sort-by val)
+            reverse
             first)
 
 ;; #_ comment macro
+
+(def book (slurp "http://www.gutenberg.org/cache/epub/4363/pg4363.txt"))
