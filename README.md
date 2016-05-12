@@ -1,3 +1,5 @@
-# clojure-koans
+# Musings on Clojure
 
-Clojure Koan exercises from http://clojurekoans.com/
+- clojure-koans
+- clojure for the brave and true
+- various other clojure musings
