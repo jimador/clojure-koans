@@ -1,4 +1,4 @@
-(ns brave-and-true.organization-ch6)
+(ns brave-and-true.organization)
 
 ;;namespaces -- map to symbols
 ;;symbols -- datatypes w/in the clojure language (map, inc, etc)

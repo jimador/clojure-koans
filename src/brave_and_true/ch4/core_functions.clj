@@ -1,4 +1,4 @@
-(ns brave-and-true.core-functions-ch4)
+(ns brave-and-true.core-functions)
 
 ;;Sequence implement first rest and cons
 (def foo [1 2 3])

@@ -1,4 +1,4 @@
-(ns brave-and-true.hobbit-model-ch3)
+(ns brave-and-true.hobbit-model)
 
 (def asym-hobbit-body-parts [{:name "head" :size 3}
                              {:name "left-eye" :size 1}

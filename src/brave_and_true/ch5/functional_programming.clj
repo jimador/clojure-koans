@@ -1,4 +1,4 @@
-(ns brave-and-true.functional-programming-ch5)
+(ns brave-and-true.functional-programming)
 
 ;;Composing functions
 ;;note -- * then inc
