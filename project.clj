@@ -7,6 +7,4 @@
                  [org.clojure/core.async "0.2.374"]]
   :main ^:skip-aot clojure-koans.core
   :target-path "target/%s"
-  :profiles {:uberjar {:aot :all}}
-  :plugins [[lein-sub "0.3.0"]]
-  :sub ["brave_and_true/ch6/the_devine_cheese_code"])
+  :profiles {:uberjar {:aot :all}})

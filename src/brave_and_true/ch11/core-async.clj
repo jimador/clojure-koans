@@ -1,3 +1,9 @@
-(ns brave-and-true.ch11.core-async)
+(ns brave-and-true.ch11.core-async
+  (:require [clojure.core.async
+             :as a
+             :refer :all])
+  (:gen-class))
 
-;;core async
+(def echo-chan (chan))
+(go (println (<! echo-chan)))
+(>!! echo-chan "ketchup")
